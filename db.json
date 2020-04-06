@@ -1,4 +1,5 @@
 {
+"latestVersion": "1.2.2",
 "posts": [
   {
     "userId": 1,
@@ -78,8 +79,5 @@
       "bs": "synergize scalable supply-chains"
     }
   }
-],
-"latestVersion": {
-	"1.1.2"
-}
+]
 }
